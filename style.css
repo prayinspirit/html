@@ -1,0 +1,17 @@
+img{
+    width:200px;
+    height:200px;
+}
+
+.resume{
+    color:blue;
+}
+
+#summary{
+    color:purple;
+}
+
+li[value="2"]{
+    color:brown;
+}
+
